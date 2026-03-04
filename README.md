@@ -8,7 +8,7 @@ An integrated platform built on AI technology to optimize bilingual teaching pro
 ## Authors & Maintainers
 
 * **Zhai Slim**
-* **Xie Zhaoxian**
+* **Chao-Hsien Hsieh**
 
 
 ## Tech Stack
