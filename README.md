@@ -5,6 +5,12 @@
 ## Project Overview
 An integrated platform built on AI technology to optimize bilingual teaching processes and teaching quality evaluation, supporting teacher growth tracking, international exchange security management, and data-driven teaching decision-making.
 
+## Authors & Maintainers
+
+* **Zhai Slim**
+* **Xie Zhaoxian**
+
+
 ## Tech Stack
 
 ### Backend
